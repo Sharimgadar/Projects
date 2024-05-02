@@ -1,2 +1,2 @@
 # Projects
-Projects made with HTML and CSS
+Projects made with HTML, CSS and Python
